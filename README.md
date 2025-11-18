@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=007EC6&center=true&vCenter=true&width=940&lines=Hey!+It's+Jhon+Meza;DevOps+Engineer+%7C+Cloud+Architect;Automating+Infrastructure+%F0%9F%9A%80;Building+Scalable+Systems+%E2%98%81%EF%B8%8F;Kubernetes+%7C+Terraform+%7C+AWS" alt="Typing SVG" />
 </div>
 
 ---
