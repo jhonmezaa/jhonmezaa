@@ -291,6 +291,8 @@ graph LR
 
 **"Building the future, one deployment at a time"** 🚀
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=jhonmezaa&icon=3&color=6)
+<br/>
+
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjhonmezaa&count_bg=%23007EC6&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
 
 </div>
