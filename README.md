@@ -59,7 +59,9 @@ module "vpc" {
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,githubactions,py,ts,bash,fastapi,react,linux&perline=11" alt="AWS, Terraform, Kubernetes, Docker, GitHub Actions, Python, TypeScript, Bash, FastAPI, React, Linux" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,githubactions" alt="AWS, Terraform, Kubernetes, Docker, GitHub Actions" />
+  <img src="assets/azure-devops.svg" height="48" alt="Azure DevOps" />
+  <img src="https://skillicons.dev/icons?i=py,ts,bash,fastapi,react,linux" alt="Python, TypeScript, Bash, FastAPI, React, Linux" />
 </p>
 
 | | |
