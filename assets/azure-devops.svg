@@ -1,0 +1,16 @@
+<svg width="48" height="48" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Azure DevOps</title>
+  <defs>
+    <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="64" y1="120.68" x2="64" y2="7.32">
+      <stop offset="0" stop-color="#0078d4"/>
+      <stop offset=".16" stop-color="#1380da"/>
+      <stop offset=".53" stop-color="#3c91e5"/>
+      <stop offset=".82" stop-color="#559cec"/>
+      <stop offset="1" stop-color="#5ea0ef"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="60" fill="#242938"/>
+  <g transform="translate(48 48) scale(1.25)">
+    <path fill="url(#a)" d="M120.89 28.445v69.262l-28.445 23.324-44.09-16.07v15.93L23.395 88.25l72.746 5.688V31.574ZM96.64 31.93 55.82 7.11v16.285L18.348 34.418 7.109 48.852v32.785l16.075 7.11V46.718Zm0 0"/>
+  </g>
+</svg>
