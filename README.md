@@ -75,14 +75,20 @@ module "vpc" {
 ## GitHub activity
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jhonmezaa&show_icons=true&include_all_commits=true&hide_rank=true&hide=stars&hide_border=true&theme=github_dark#gh-dark-mode-only" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonmezaa&layout=compact&langs_count=6&hide_border=true&theme=github_dark#gh-dark-mode-only" alt="Most used languages" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jhonmezaa&show_icons=true&include_all_commits=true&hide_rank=true&hide=stars&hide_border=true&theme=default#gh-light-mode-only" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonmezaa&layout=compact&langs_count=6&hide_border=true&theme=default#gh-light-mode-only" alt="Most used languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jhonmezaa&show_icons=true&hide_rank=true&hide=stars&hide_border=true&theme=github_dark" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=jhonmezaa&show_icons=true&hide_rank=true&hide=stars&hide_border=true&theme=default" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonmezaa&layout=compact&langs_count=6&hide_border=true&theme=github_dark" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonmezaa&layout=compact&langs_count=6&hide_border=true&theme=default" alt="Most used languages" />
+  </picture>
 </p>
 <p>
-  <img src="https://streak-stats.demolab.com/?user=jhonmezaa&hide_border=true&theme=github-dark-blue#gh-dark-mode-only" alt="Contribution streak" />
-  <img src="https://streak-stats.demolab.com/?user=jhonmezaa&hide_border=true&theme=default#gh-light-mode-only" alt="Contribution streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=jhonmezaa&hide_border=true&theme=github-dark-blue" />
+    <img src="https://streak-stats.demolab.com/?user=jhonmezaa&hide_border=true&theme=default" alt="Contribution streak" />
+  </picture>
 </p>
 
 ## Contact
